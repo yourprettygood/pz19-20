@@ -1,0 +1,7 @@
+C:\Projects\PZ19-20\bin\Debug\PZ19-20.exe.config
+C:\Projects\PZ19-20\bin\Debug\PZ19-20.exe
+C:\Projects\PZ19-20\bin\Debug\PZ19-20.pdb
+C:\Projects\PZ19-20\obj\Debug\PZ19-20.csproj.AssemblyReference.cache
+C:\Projects\PZ19-20\obj\Debug\PZ19-20.csproj.CoreCompileInputs.cache
+C:\Projects\PZ19-20\obj\Debug\PZ19-20.exe
+C:\Projects\PZ19-20\obj\Debug\PZ19-20.pdb
